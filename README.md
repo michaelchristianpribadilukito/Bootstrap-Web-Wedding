@@ -43,10 +43,6 @@ Anda dapat melihat demo langsung dari situs web ini di sini: [Bootstrap Wedding 
     * **Hitung Mundur:** Perbarui tanggal target di skrip `simplyCountdown` di `index.html`.
     * **Formulir RSVP:** Ubah URL `action` formulir agar mengarah ke skrip Google Apps Anda sendiri untuk mengumpulkan tanggapan. **Catatan:** Formulir RSVP saat ini ditautkan ke Google Sheet pribadi. Anda perlu membuat skrip Google Apps Anda sendiri dan memperbarui URL `action` agar berfungsi dengan benar.
 
-## 📄 Lisensi
-
-Proyek ini dilisensikan di bawah Lisensi MIT - lihat file `LICENSE.md` untuk detailnya.
-
 ## 🙏 Ucapan Terima Kasih
 
 * Didesain oleh **Michael Christian**.
